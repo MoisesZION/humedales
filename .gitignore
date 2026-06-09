@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+.virtual_documents/
+anaconda_projects/
+
+*.log
+.DS_Store
+Thumbs.db
